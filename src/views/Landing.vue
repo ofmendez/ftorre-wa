@@ -30,6 +30,7 @@
                 <div class="col-lg-1 col-sm-1 col-md-1"></div>
                 <div class="col-lg-8 col-sm-6 col-md-6">
                   <base-input
+                    v-on:keyup.enter="searchOpportunity"
                     alternative
                     placeholder="Search"
                     v-model="term"
