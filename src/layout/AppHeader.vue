@@ -8,7 +8,7 @@
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://github.com/ofmendez/ftorre_wa"
+                    <a class="nav-link nav-link-icon" href="https://github.com/ofmendez/ftorre-wa"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
